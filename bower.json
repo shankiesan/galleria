@@ -1,0 +1,14 @@
+{
+  "name": "aino/galleria",
+  "version": "1.4.2",
+  "main": [
+    "src/galleria.js",
+    "src/themes/classic/galleria.classic.js"
+  ],
+  "dependencies": {
+    "jquery": "2.1.3"
+  },
+  "ignore": [
+    "**/.*"
+  ]
+}
